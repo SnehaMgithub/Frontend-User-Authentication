@@ -19,6 +19,10 @@ The application provides routes for:
 - `/forgot-password`: Forgot password page
 - `/reset-password`: Password reset page
 
+# Postman Collection
 
+You can test these API endpoints using Postman. The following link provides a Postman collection that contains all the necessary endpoints for registration, login, forgot password, and password reset functionalities.
+
+[Postman Collection for Password Reset API](https://documenter.getpostman.com/view/39168825/2sAY4vgND2)
 
 
