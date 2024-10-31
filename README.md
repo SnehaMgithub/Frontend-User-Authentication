@@ -19,22 +19,6 @@ The application provides routes for:
 - `/forgot-password`: Forgot password page
 - `/reset-password`: Password reset page
 
-Each page is designed with a simple UI for user interactions and form handling.
 
-## Folder Structure
-
-Here's an overview of the folder structure:
-
-src/
-├── Pages/                 # Contains all page components
-│   ├── ForgotPassword.jsx # Forgot Password component
-│   ├── Login.jsx          # Login component
-│   ├── Register.jsx       # Register component
-│   └── ResetPassword.jsx  # Reset Password component
-├── App.jsx                # Main application component
-├── main.jsx               # Application entry point
-├── index.html             # HTML template
-├── package.json           # Project configuration and dependencies
-└── README.md              # Project documentation
 
 
